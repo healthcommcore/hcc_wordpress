@@ -1,0 +1,5 @@
+.*.swp
+vendor
+wp-content
+web
+wp-config.php
